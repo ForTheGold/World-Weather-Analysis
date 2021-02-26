@@ -1,7 +1,3 @@
-# World_Weather_Analysis
-
-Analysis of weather and travel using APIs
-
 ## Overview
 
 This project started out as a simple exploratory analysis on some simple weather data, but ended up being an application that gives travel and hotel suggestions based upon user weather preferences.
@@ -21,56 +17,56 @@ A collection of figures made from the data are displayed below.  The data and fi
 #### Weather Figures by Latitude
 
 Latitude vs Temperature
-![Latitude vs Temperature](/weather_data/fig1.png)
+![Latitude vs Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig1.png)
 
 Latitude vs Humidity
-![Latitude vs Humidity](/weather_data/fig2.png)
+![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig2.png)
 
 Latitude vs Cloudiness
-![Latitude vs Cloudiness](/weather_data/fig3.png)
+![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig3.png)
 
 Latitude vs Wind Speed
-![Latitude vs Wind Speed](/weather_data/fig4.png)
+![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig4.png)
 
 #### Linear Regression Analysis By Hemisphere
 
 Latitude vs Temperature Northern Hemisphere
-![Latitude vs Temperature](/weather_data/fig5.png)
+![Latitude vs Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig5.png)
 
 Latitude vs Temperature Southern Hemisphere
-![Latitude vs Temperature](/weather_data/fig6.png)
+![Latitude vs Temperature]https://github.com/ForTheGold/World_Weather_Analysis/blob/main(/weather_data/fig6.png)
 
 Latitude vs Humidity Northern Hemisphere
-![Latitude vs Humidity](/weather_data/fig7.png)
+![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig7.png)
 
 Latitude vs Humidity Southern Hemisphere
-![Latitude vs Humidity](/weather_data/fig8.png)
+![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig8.png)
 
 Latitude vs Cloudiness Northern Hemisphere
-![Latitude vs Cloudiness](/weather_data/fig9.png)
+![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig9.png)
 
 Latitude vs Cloudiness Southern Hemisphere
-![Latitude vs Cloudiness](/weather_data/fig10.png)
+![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig10.png)
 
 Latitude vs Wind Speed Northern Hemisphere
-![Latitude vs Wind Speed](/weather_data/fig11.png)
+![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig11.png)
 
 Latitude vs Wind Speed Southern Hemisphere
-![Latitude vs Wind Speed](/weather_data/fig12.png)
+![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig12.png)
 
 #### Heat Maps
 
 Temperature
-![Temperature](/weather_data/fig13.png)
+![Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig13.png)
 
 Humidity
-![Humidity](/weather_data/fig14.png)
+![Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig14.png)
 
 Cloudiness
-![Cloudiness](/weather_data/fig15.png)
+![Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig15.png)
 
 Wind Speed
-![Wind Speed](/weather_data/fig16.png)
+![Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig16.png)
 
 ## Travel Recommendation Software
 
@@ -87,7 +83,7 @@ A larger data set was collected from the openweathermap API.  The collection fil
 The first program uses all of the data collected from openweathermap API to create a map of cities that shows the most popular accommodation, the city and country, and the current weather and temperature. The files, data and image can be found in the vacation_search folder.  Sample output is shown below. 
 
 Vacation Search Sample Output
-![Vacation Search Sample Output](/vacation_search/WeatherPy_vacation_map.png)
+![Vacation Search Sample Output](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_search/WeatherPy_vacation_map.png)
 
 ### Vacation Itinerary
 
@@ -98,7 +94,7 @@ The program outputs the navigation map necessary to drive between the cities, an
 This program along with sample images can be found in the vacation_itinerary folder.  Sample output is shown below.
 
 Vacation Itinerary Navigation Map
-![Vacation Itinerary Navigation Map](/vacation_itinerary/WeatherPy_travel_map.png)
+![Vacation Itinerary Navigation Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map.png)
 
 Vacation Itinerary Accommodation and Weather Map
-![Vacation Itinerary Accommodation and Weather Map](/vacation_itinerary/WeatherPy_travel_map_markers.png)
+![Vacation Itinerary Accommodation and Weather Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
