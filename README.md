@@ -17,56 +17,56 @@ A collection of figures made from the data are displayed below.  The data and fi
 #### Weather Figures by Latitude
 
 Latitude vs Temperature
-![Latitude vs Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig1.png)
+![Latitude vs Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig1.png)
 
 Latitude vs Humidity
-![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig2.png)
+![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig2.png)
 
 Latitude vs Cloudiness
-![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig3.png)
+![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig3.png)
 
 Latitude vs Wind Speed
-![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig4.png)
+![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig4.png)
 
 #### Linear Regression Analysis By Hemisphere
 
 Latitude vs Temperature Northern Hemisphere
-![Latitude vs Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig5.png)
+![Latitude vs Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig5.png)
 
 Latitude vs Temperature Southern Hemisphere
-![Latitude vs Temperature]https://github.com/ForTheGold/World_Weather_Analysis/blob/main(/weather_data/fig6.png)
+![Latitude vs Temperature]https://github.com/ForTheGold/World_Weather_Analysis/blob/main(/weather_data/Fig6.png)
 
 Latitude vs Humidity Northern Hemisphere
-![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig7.png)
+![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig7.png)
 
 Latitude vs Humidity Southern Hemisphere
-![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig8.png)
+![Latitude vs Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig8.png)
 
 Latitude vs Cloudiness Northern Hemisphere
 ![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig9.png)
 
 Latitude vs Cloudiness Southern Hemisphere
-![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig10.png)
+![Latitude vs Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig10.png)
 
 Latitude vs Wind Speed Northern Hemisphere
-![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig11.png)
+![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig11.png)
 
 Latitude vs Wind Speed Southern Hemisphere
-![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig12.png)
+![Latitude vs Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig12.png)
 
 #### Heat Maps
 
 Temperature
-![Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig13.png)
+![Temperature](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig13.png)
 
 Humidity
-![Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig14.png)
+![Humidity](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig14.png)
 
 Cloudiness
-![Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig15.png)
+![Cloudiness](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig15.png)
 
 Wind Speed
-![Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/fig16.png)
+![Wind Speed](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/weather_data/Fig16.png)
 
 ## Travel Recommendation Software
 
