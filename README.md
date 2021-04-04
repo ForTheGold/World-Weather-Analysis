@@ -98,3 +98,14 @@ Vacation Itinerary Navigation Map
 
 Vacation Itinerary Accommodation and Weather Map
 ![Vacation Itinerary Accommodation and Weather Map](https://github.com/ForTheGold/World_Weather_Analysis/blob/main/vacation_itinerary/WeatherPy_travel_map_markers.png)
+
+## Technologies
+
+* Pandas
+* Numpy
+* MatPlotLib
+* SciPy
+* Open Weather API
+* Google Maps API
+* Python
+* Regression Analysis
